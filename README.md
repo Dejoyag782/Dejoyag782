@@ -1,12 +1,11 @@
 <!--## _Who am I:-->
 
+
 <p align="center ">
   <img src="https://readme-typing-svg.demolab.com/?lines=DEX%20JOSHUA%20CURAYAG&font=Audiowide&center=true&width=1000&height=100&pause=1000&size=70&color=FF7EB3,FF758C">
 </p>
 
-
 ---
-
 <h3 quote align='center'>TO CODE IS LIKE BUILDING A FORTRESS</h3 quote>
 
 ---
