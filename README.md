@@ -42,7 +42,7 @@
 <!-- GitHub Readme Streak Stats -->
 <p align="left">
   <a href="https://github.com/Dejoyag782">
-    <img title="GitHub Stats" alt="Sarvesh's streak" src="https://streak-stats.demolab.com/?user=Dejoyag782&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=FF7EB3,FF758C&icon_color=F8D866"/>
+    <img title="GitHub Stats" alt="Dex's streak" src="https://streak-stats.demolab.com/?user=Dejoyag782&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=FF7EB3,FF758C&icon_color=F8D866"/>
   </a>
 </p>
 
