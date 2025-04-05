@@ -13,8 +13,6 @@
 ## 🌐 Socials:
 
 <p align="center">
-  <a href="https://github.com/Dejoyag782">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/dex-joshua-curayag-67764b316/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
 </p>
