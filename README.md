@@ -55,5 +55,3 @@
 
 [![Dex Joshua Curayag's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dejoyag782&bg_color=1F222E&color=F8D866&line=FF7EB3,FF758C&point=FFFFFF&area=true&hide_border=true)](https://github.com/Dejoyag782/github-readme-activity-graph)
 
-<h3 align="center">Visitor's count</h3>
-<p align="center"><img src="https://profile-counter.glitch.me/{Dejoyag782}/count.svg/" alt="Dex Joshua's Visitor's count" /></p>
